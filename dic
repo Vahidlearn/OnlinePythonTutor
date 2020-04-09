@@ -1,0 +1,6 @@
+bargashti = dict.fromkeys(["name", "codemli", "noumber_of_document","reason_back","place"], "unknown")
+bargashtiha ={
+    "index":1,
+    bargashti,
+}
+print(bargashtiha)
